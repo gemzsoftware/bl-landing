@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+.inter-font{
+    font-family: "inter", sans-serif;
+}
+
+@keyframes gridmove {
+    0% {
+        transform: translateY(0px);
+    }
+    100% {
+        transform: translateY(60px);
+    }
+}
